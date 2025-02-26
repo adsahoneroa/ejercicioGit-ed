@@ -1,0 +1,1 @@
+Más contenido en rama1 para rama2.txt
