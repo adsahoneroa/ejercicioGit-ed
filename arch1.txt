@@ -1,1 +1,2 @@
 Este es el archivo 1
+Nuevo contenido añadido a arch1.txt
